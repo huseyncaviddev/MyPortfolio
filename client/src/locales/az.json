@@ -1,0 +1,156 @@
+{
+  "nav": {
+    "about": "Haqqımda",
+    "experience": "Təcrübə",
+    "skills": "Bacarıqlar",
+    "education": "Təhsil",
+    "contact": "Əlaqə"
+  },
+  "hero": {
+    "availability": "Yeni imkanlar üçün açığam",
+    "name": "Hüseyn Cavid",
+    "tagline": "Uyğun, miqyaslana bilən sənəd nəzarəti ekosistemləri qururam",
+    "role": "Sənəd İdarəetmə Rəhbəri",
+    "summary": "Böyük həcmli tikinti və sənaye layihələri üçün sürətli, miqyaslana bilən və tam uyğun sənəd nəzarəti ekosistemləri quran Sənəd İdarəetmə Rəhbəri. EDMS administrasiyası, dövr idarəçiliyi və PowerShell/Python ilə iş axını avtomatlaşdırması üzrə ixtisaslaşmışam.",
+    "email": "huseyn.cavid.dev@gmail.com",
+    "phone": "+994 99 344 24 14",
+    "location": "Azərbaycan, Bakı",
+    "ctaDownload": "CV Yüklə",
+    "ctaLinkedin": "LinkedIn-də əlaqə",
+    "ctaMessage": "Mesaj Göndər",
+    "ctaContact": "Əlaqə saxla",
+    "ctaLinkedinSecondary": "LinkedIn profilinə bax"
+  },
+  "about": {
+    "title": "Haqqımda",
+    "body": "Böyük miqyaslı tikinti layihələri üçün sənəd nəzarəti ekosistemlərini idarə edən Sənəd İdarəetmə Rəhbəriyəm. EDMS administrasiyası, dövr idarəçiliyi, reviziya nəzarəti və Podratçı–Mühəndis–İşəgötürən mühitində maraqlı tərəflərin koordinasiyasında təcrübəm var. PowerShell və Python ilə iş axını avtomatlaşdırmasında yüksək bacarığa malikəm, əl işini 60%+ azaltdım və sənəd dövriyyəsinin sürətini və dəqiqliyini artırdım. FIDIC, layihə prosedurları və QA/QC tələblərindən yayınmadan işləmək üçün dəqiq, proses yönümlü yanaşma tətbiq edirəm."
+  },
+  "experience": {
+    "title": "Təcrübə",
+    "items": [
+      {
+        "title": "Sənəd İdarəetmə Lideri",
+        "company": "KOLIN Construction",
+        "period": "06/2024 - Hazırda",
+        "location": "Sitalçay, Azərbaycan",
+        "website": "kolin.com.tr",
+        "highlights": [
+          "FIDIC tələblərinə uyğun sənədin tam dövriyyəsini (yaradılma, baxış, təsdiq, paylama, arxivləşdirmə) qurub idarə etdim",
+          "Gələn və gedən sənədlərin (TRN, LET, STQ, MAR, MIR, ITP, SHD, MOM, DR, NCR) tam nəzarətini təmin etdim",
+          "MDR idarəçiliyinə rəhbərlik edərək bütün sahələrdə ciddi nömrələmə, reviziya və metadata qaydalarına nəzarət etdim",
+          "5+ mühəndislik sahəsi və 20+ subpodratçı üçün strukturlaşdırılmış server arxitekturası qurdum və tətbiq etdim",
+          "Əl əməyini 60%+ azaldan PowerShell/Python avtomatlaşdırma alətləri hazırladım"
+        ]
+      },
+      {
+        "title": "Sənəd Nəzarətçisi",
+        "company": "KOLIN Construction",
+        "period": "04/2021 - 06/2024",
+        "location": "Kəlbəcər, Azərbaycan",
+        "website": "kolin.com.tr",
+        "highlights": [
+          "Mülki, mexaniki və elektrik sahələrində daxil olan/çıxan bütün layihə sənədlərinə nəzarət etdim",
+          "MDR-i fasiləsiz dəqiqlik, reviziya bütövlüyü və audit hazırlığı ilə qorudum",
+          "Sənəd nömrələmə, reviziya və metadata qaydalarına uyğunluğu təmin etdim",
+          "EDMS iş axınlarını və e-poçt yönləndirmə sistemlərini izlədim"
+        ]
+      },
+      {
+        "title": "IT Mütəxəssisi",
+        "company": "Clopos POS",
+        "period": "06/2018 - 02/2021",
+        "location": "Bakı, Azərbaycan",
+        "website": "clopos.com",
+        "highlights": [
+          "Bir neçə restoran müştərisi üçün POS sistemlərinin işinə texniki dəstək göstərdim",
+          "Serverləri, şəbəkələri, marşrutlaşdırıcıları, çeviriciləri və UniFi akses nöqtələrini quraşdırıb sazladım",
+          "SSD, HDD, RAM, CPU kimi avadanlıqları servis etdim və təmir etdim",
+          "ƏS quraşdırılması, printer sazlanması və ümumi IT dəstəyi göstərdim"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Əsas Kompetensiyalar",
+    "categories": [
+      {
+        "name": "Sənəd Nəzarəti və İdarəetmə",
+        "items": [
+          "Sənəd Nəzarəti İdarəçiliyi",
+          "Sənədlərin idarə olunması",
+          "Sənəd dövriyyəsi (ucu-uca)",
+          "Reviziya nəzarəti və uyğunluq",
+          "Komanda rəhbərliyi və təlim"
+        ]
+      },
+      {
+        "name": "EDMS üzrə Təcrübə",
+        "items": [
+          "EDMS Administrasiyası (Aconex, SharePoint, FileOrbis)",
+          "İş axını dizaynı və optimizasiyası",
+          "Metadata strukturu və nömrələmə sistemləri",
+          "MDR və DDM idarəçiliyi",
+          "İcazə və giriş nəzarəti"
+        ]
+      },
+      {
+        "name": "Avtomatlaşdırma və Alətlər",
+        "items": [
+          "Python avtomatlaşdırması (DCC skriptləri)",
+          "PowerShell avtomatlaşdırması",
+          "İnkişaf etmiş Excel (Dashboard, Tracker, PivotTable)",
+          "PDF alətləri (Qeydlər, Ştamplar, Birləşdirmə)"
+        ]
+      },
+      {
+        "name": "Keyfiyyət və Uyğunluq",
+        "items": [
+          "Audit hazırlığı və sənəd bütövlüyü",
+          "İdarə olunan sənəd paylanması",
+          "Sənəd axınında risklərin aşkarlanması"
+        ]
+      },
+      {
+        "name": "Hesabat və Kommunikasiya",
+        "items": [
+          "KPI hesabatı və analitika"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "Təhsil",
+    "items": [
+      {
+        "degree": "Magistr dərəcəsi",
+        "field": "Otel İdarəçiliyi",
+        "institution": "Bakı Dövlət Universiteti",
+        "period": "09/2021 - 06/2023"
+      },
+      {
+        "degree": "Bakalavr dərəcəsi",
+        "field": "Biznes İdarəçiliyi",
+        "institution": "Bakı Dövlət Universiteti",
+        "period": "09/2017 - 06/2021"
+      }
+    ]
+  },
+  "languages": {
+    "title": "Dillər",
+    "items": [
+      { "name": "İngilis", "level": "Yuxarı-orta" },
+      { "name": "Rus", "level": "Orta" }
+    ]
+  },
+  "contact": {
+    "title": "Gəlin əlaqə quraq",
+    "description": "Yeni imkanlar, əməkdaşlıqlar və ya sənəd nəzarəti və proses optimizasiyası barədə söhbət üçün həmişə açığam.",
+    "emailLabel": "E-poçt",
+    "phoneLabel": "Telefon",
+    "linkedin": "LinkedIn profilinə bax"
+  },
+  "footer": {
+    "copyright": "© {{year}} Hüseyn Cavid. Bütün hüquqlar qorunur.",
+    "location": "Sənəd İdarəetmə Rəhbəri • Azərbaycan, Bakı"
+  }
+}
